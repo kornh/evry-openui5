@@ -1,0 +1,8 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m" controllerName="com.github.kornh.evry.controller.App">
+    <App>
+        <Page>
+
+        </Page>
+    </App>
+</mvc:View>
